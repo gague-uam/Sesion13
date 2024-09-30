@@ -44,6 +44,7 @@ namespace Burbuja
             MetBurbuja burbuja = new MetBurbuja();
             burbuja.OrdenarBurbuja(numbers);
             showNumbers();
+
         }
     }
 }
